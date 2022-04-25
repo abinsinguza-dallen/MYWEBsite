@@ -1,0 +1,18 @@
+.home img{
+    width: 100%;
+}
+.foote{
+    display: inline-flex;
+    background-color: rgb(225, 241, 241);
+  
+} 
+.foote .contact{
+    margin-left: 900px;
+}
+.foote .loc{
+    margin-left: 50px;
+}
+.NAV nav ul{
+    margin-left: 800px;
+    display: inline-flex;
+}

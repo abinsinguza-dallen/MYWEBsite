@@ -1,0 +1,41 @@
+
+nav ul{
+     display: inline-block;
+}
+.img1{
+     padding: 30px;
+     margin: 70px;
+     background-color: rgb(197, 246, 255);
+}     
+.img2{
+     padding: 30px;
+     margin: 70px;
+     background-color: rgb(199, 247, 236);
+}     
+.img3{
+     padding: 30px;
+     margin: 70px;
+     background-color: rgb(210, 248, 248);
+} 
+.images{
+     display: inline-flex;
+     background-color: rgb(220, 220, 238);
+}  
+.BOUT{
+     font-size: 20px;
+     background-color: rgb(200, 228, 228);
+     font-family: sans-serif;
+    text-align: center;
+} 
+.foote{
+     display: inline-flex;
+     background-color: rgb(225, 241, 241);
+    
+   
+} 
+.foote .contact{
+     margin-left: 900px;
+}
+.foote .loc{
+     margin-left: 50px;
+} 

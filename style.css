@@ -1,0 +1,68 @@
+*
+body{
+    background-color: rgb(210, 241, 243);
+   /* background-image: url( /background.webp); */
+   background-size: 50%;  
+    /* font-size: xxlarger; */
+}
+ul{
+    margin-left: 900px;
+    font-size: 25px;
+    text-decoration: underline none;
+    padding-left: 20px;
+}
+/* nav ul{
+    text-align: right;
+    font-size: larger;
+    display: inline-flex;
+    margin-left: 700px;
+    padding-left: 200px;
+    text-decoration: none; */
+
+
+#Home,#About{
+    position:center;
+    flex-direction: row;
+    
+  }
+title{
+    position:center;
+    font-size: larger;
+}
+p{
+    text-align: center;
+    font-size: larger;
+
+}
+hi{
+    font-style: italic;
+    font-size: calc(70pxt);
+}
+.FOOD img{
+    background-color: rgb(225, 241, 241);
+
+} 
+.home img{
+    width: 300px;
+}
+.foote{
+    display: inline-flex;
+    background-color: rgb(225, 241, 241);
+    
+  
+} 
+.foote .contact{
+    margin-left: 900px;
+}
+.foote .loc{
+    margin-left: 50px;
+}
+
+.main img{
+    width: 600px;
+    height: 400px;
+    border-radius: 90px;
+    margin-left: 300px;
+
+    
+}
